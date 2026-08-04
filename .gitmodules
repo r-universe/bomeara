@@ -1,5 +1,67 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/bomeara/bomeara.r-universe.dev
 	branch = HEAD
+[submodule "AnnotationBustR"]
+	path = AnnotationBustR
+	url = https://github.com/sborstein/AnnotationBustR
+[submodule "BMhyb"]
+	path = BMhyb
+	url = https://github.com/bomeara/BMhyb
+[submodule "BoskR"]
+	path = BoskR
+	url = https://github.com/oschwery/BoskR
+[submodule "GDRarity"]
+	path = GDRarity
+	url = https://github.com/anytko/GDRarity
+[submodule "MonoPhy"]
+	path = MonoPhy
+	url = https://github.com/oschwery/MonoPhy
+[submodule "OUwie"]
+	path = OUwie
+	url = https://github.com/thej022214/OUwie
+[submodule "RateViz"]
+	path = RateViz
+	url = https://github.com/bomeara/RateViz
+[submodule "TreEvo"]
+	path = TreEvo
+	url = https://github.com/bomeara/treevo
+[submodule "closesamples"]
+	path = closesamples
+	url = https://github.com/bomeara/closesamples
+[submodule "corHMM"]
+	path = corHMM
+	url = https://github.com/thej022214/corHMM
+[submodule "datelife"]
+	path = datelife
+	url = https://github.com/phylotastic/datelife
+[submodule "dentist"]
+	path = dentist
+	url = https://github.com/bomeara/dentist
+[submodule "dietr"]
+	path = dietr
+	url = https://github.com/sborstein/dietr
+[submodule "flipped"]
+	path = flipped
+	url = https://github.com/bomeara/flipped
+[submodule "hisse"]
+	path = hisse
+	url = https://github.com/thej022214/hisse
+[submodule "phrapl"]
+	path = phrapl
+	url = https://github.com/bomeara/phrapl
+[submodule "phylotaR"]
+	path = phylotaR
+	url = https://github.com/ropensci/phylotaR
+[submodule "popularitree"]
+	path = popularitree
+	url = https://github.com/bomeara/popularitree
+[submodule "rphylotastic"]
+	path = rphylotastic
+	url = https://github.com/phylotastic/rphylotastic
+[submodule "selac"]
+	path = selac
+	url = https://github.com/bomeara/selac
+[submodule "sisters"]
+	path = sisters
+	url = https://github.com/bomeara/sisters
