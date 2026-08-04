@@ -1,0 +1,10 @@
+{
+  "id": 151204091,
+  "created_at": "2026-08-04T13:44:07.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["bomeara.r-universe.dev"]
+}
